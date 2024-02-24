@@ -44,3 +44,13 @@ abstraction
 * *추상화* 한다. : 문제를 해결하기 위하여 꼭 필요한 것을 남기고 불필요 한 것을 배제시키는 것
 
 ### 알고리즘
+
+algorithm
+
+어떤 문제를 해결하기 위한 여러 동작들의 유한한 모임
+
+#### 알고리즘의 표현 방법
+
+* computer programming language
+* flow chart
+* pseudocode
