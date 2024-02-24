@@ -52,5 +52,10 @@ algorithm
 #### 알고리즘의 표현 방법
 
 * computer programming language
-* flow chart
+  * 컴퓨터 작동을 위한 동작을 세밀하게 지시 => 알고리즘의 핵심 요소가 잘 드러나지 않음
+  * 통일된 언어가 존재하지 않음 => 언어에 종속적임 
+* 순서도 (flow chart)
+  * ![flow-chart](./assets/flow-chart.png)
+  * 알고리즘의 작동 방법을 도식화 함
+  * 내용이 복잡하거나 프로그램의 크기가 클 경우 도식화하기 어려움
 * pseudocode
