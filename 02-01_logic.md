@@ -57,3 +57,20 @@
 | T   | F   | F     |
 | F   | T   | T     |
 | F   | F   | T     |
+
+### 쌍조건명제 (biconditional proposition, ↔)
+
+명제 p와 q가 있을 때, 명제 p와 q가 조건의 역할과 결론의 역할을 동시에 수행하는 경우
+
+`p ↔ q`
+
+`(p → q) ∧ (q → p)`
+
+`TFFT`
+
+| p   | q   | p → q |
+|-----|-----|-------|
+| T   | T   | T     |
+| T   | F   | F     |
+| F   | T   | F     |
+| F   | F   | T     |
