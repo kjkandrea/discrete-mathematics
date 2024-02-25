@@ -90,3 +90,25 @@
 * 역(converse) : `q -> p`
 * 이(inverse) : `~p → ~q`
 * 대우(contra positive) : `~q -> ~p`
+
+### 동치
+
+## 술어논리 (predicate logic)
+
+### 명제 함수 (propositional function)
+
+변수의 값에 의해 함수의 진리값이 결정되는 문장이나 식
+
+`p(x, y)`
+
+#### 한정화 (quantification)
+
+전체한정자 (universal quantifier, ∀)
+
+* "모든" 또는 "임의의" 를 의미
+* `∀xP(x)` 모든 임의의 x에 대해서 `P(x)` 가 `T` 임
+
+존재한정자 (existential quantifier, ∃)
+
+* "존재한다" 를 의미
+*  `∃xP(x)` 어떤 x에 대해서 `P(x)` 가 `T`임
