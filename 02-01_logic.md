@@ -47,7 +47,7 @@
 `p → q`
 
 * p는 q의 충분조건
-* q는 p의 필요조건
+  * q는 p의 필요조건
 
 `TFTT`
 
@@ -57,6 +57,8 @@
 | T   | F   | F     |
 | F   | T   | T     |
 | F   | F   | T     |
+
+FTT, FFT : 거짓인 조건 아래에서는 어떤 결과가 나와도 논리적으로 옳다고 할 수 있기 때문
 
 ### 쌍조건명제 (biconditional proposition, ↔)
 
